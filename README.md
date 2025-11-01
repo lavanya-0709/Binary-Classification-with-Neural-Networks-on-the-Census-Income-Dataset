@@ -8,6 +8,7 @@ This project implements a tabular deep learning model that processes census data
 ## code
 
  python
+ ```
 import pandas as pd
 import numpy as np
 import torch
@@ -181,12 +182,12 @@ predict_income(
     education='Bachelors',
     hours_per_week=45
 )
-
+```PYTHON
 
 # output
 
+<img width="472" height="286" alt="image" src="https://github.com/user-attachments/assets/9100e9a9-6726-4d04-816d-57c3f5eb2f5f" />
 
-![alt text](image.png)
 
 
 # Result:
