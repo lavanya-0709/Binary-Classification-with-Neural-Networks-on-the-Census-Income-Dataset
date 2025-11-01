@@ -169,7 +169,7 @@ def predict_income(marital_status, education, hours_per_week,
     print(f"Confidence: {confidence:.2f}%")
     return result
 
-# Example usage
+#Example usage
 print("\n--- Example Prediction ---")
 predict_income(
     marital_status='Married-civ-spouse',
