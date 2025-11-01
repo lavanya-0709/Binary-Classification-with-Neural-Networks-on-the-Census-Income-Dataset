@@ -182,7 +182,8 @@ predict_income(
     education='Bachelors',
     hours_per_week=45
 )
-```PYTHON
+```
+
 
 # output
 
