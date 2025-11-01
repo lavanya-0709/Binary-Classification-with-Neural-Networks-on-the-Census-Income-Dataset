@@ -2,7 +2,7 @@
 ## Overview
 This project implements a tabular deep learning model that processes census data with categorical and continuous features. The model uses embedding layers for categorical variables and batch normalization for continuous variables to predict income levels.
 
-code
+## code
 import pandas as pd
 import numpy as np
 import torch
